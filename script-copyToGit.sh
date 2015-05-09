@@ -1,0 +1,1 @@
+cp -R * /Users/bvz/GitHub/PersonalWebsite 
